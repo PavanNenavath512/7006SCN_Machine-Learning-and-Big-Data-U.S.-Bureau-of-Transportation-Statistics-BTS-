@@ -1,0 +1,2 @@
+# 7006SCN_Machine-Learning-and-Big-Data-U.S.-Bureau-of-Transportation-Statistics-BTS-
+The data was obtained in the U.S. Bureau of Transportation Statistics (BTS) On-Time Performance database (Jan–Jun 2024). Snappy compressed monthly CSV files were directly changed to Parquet to support efficient distributed processing. The dataset is divided into Year and Month and is over 1GB, consisting of several millions of rows.
